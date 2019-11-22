@@ -1,9 +1,0 @@
-"STARTUP.obj",
-"main.obj",
-"INIT.obj",
-"f300_init.obj",
-"sine_c.obj" 
-TO "HM133dtmf" 
-RAMSIZE(256) 
-CODE( 0X0000-0X1FFF )
-IDATA( 0x90 )
