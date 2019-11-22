@@ -1,5 +1,4 @@
-# HM133_DTMF_Adapter
-8051 C code for ICOM HM-133 and HM-151 Microphone DTMF adapter
-This project allows an HM-133 or HM-151 digital microphone to produce analog DTMF tones and thus connect to
-an older transciever, or any new transceiver that accepts an analog modulation input.
-See http://www.rollanet.org/~joeh/projects/hm133/ for project hardware details.
+# Morse_HID_Keyboard
+TIVA source (C) for the TM4C123GH6PM LaunchPad
+Converts Morse paddle switch inputs to Morse tones and interprets the characters for key processing by USB-HID interface.
+See http://www.rollanet.org/~joeh/projects/musb/ for project hardware details.
