@@ -14,4 +14,7 @@ if errors are encountered, the file location variables within CCS6 will have to 
 Use the "Import" command inside CCS6 to import the project, then select the "musb.zip" file.  When finished, the project should
 compile without error.  Use the "debug" command to program a connected to a TM4C123GXL Launchpad board.
 
+The zip archive is not encrypted, so one may simply download and open it to get access to the source files, if you are trying
+to port the application.
+
 See http://www.rollanet.org/~joeh/projects/musb/ for project hardware details.
