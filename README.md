@@ -17,4 +17,8 @@ compile without error.  Use the "debug" command to program a connected to a TM4C
 The zip archive is not encrypted, so one may simply download and open it to get access to the source files, if you are trying
 to port the application.
 
-See http://www.rollanet.org/~joeh/projects/musb/ for project hardware details.
+musb_HW_reva.zip is an archive of the Altium database for the REV-A PCB.  Rev-A has a built-in USB hub which allows a mouse/trackball to
+be connected along with the MUSB-HID for a single-point connection to the PC.  Rev-A also does not utilize a LaunchPad but rather installs
+the MCU and associated parts directly to the PCB.  This results in a very low-profile form-factor compared against the Rev-/LaunchPad PCB.
+
+See https://ke0ff.github.io/musb/index.html for the project article.
